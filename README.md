@@ -1,4 +1,4 @@
-# Quera
+# Django
 
 * 1-Blog : https://quera.org/problemset/14742/
 * 2-postalcard : https://quera.org/problemset/21210/
